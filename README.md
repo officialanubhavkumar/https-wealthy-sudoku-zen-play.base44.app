@@ -20,5 +20,6 @@ A modern, responsive Sudoku application built using **Base44**. This project fea
 
 ## 🚀 Live Demo
 
-Check out the deployed application: [Live App Link](https://your-app-link-here)# https-wealthy-sudoku-zen-play.base44.app
+Check out the deployed application: [Live App Link](
+https-wealthy-sudoku-zen-play.base44.app)# https-wealthy-sudoku-zen-play.base44.app
 A full-stack, responsive Sudoku web app built with Base44 featuring dynamic puzzle generation, real-time conflict validation, smart hints, and player statistics.
